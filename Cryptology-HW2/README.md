@@ -14,7 +14,8 @@ Just for homework
 | Homework2.pdf | Description file |
 
 ## Usage
-DES.cpp can use the key and message in two text files to perform DES encryption and decryption. It will show the average running time.
+DES.cpp can use the key and message in two text files to perform DES encryption and decryption.</br>
+It will show the average running time.
 ```
 $ g++ DES.cpp -o DES.out -O3
 $ ./DES.out
