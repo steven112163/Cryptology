@@ -6,10 +6,12 @@ Just for homework
 * Crypto++ >= 8.1.0
 
 ## Files
-* DES.cpp: DES that can encrypt and decrypt messages
-* DES-Key-Ciphertext.txt: Pairs of key and cipher text
-* DES-Key-Plaintext.txt: Pairs of key and plain text
-* Homework2.pdf: Description file.
+| File | Description |
+| --- | --- |
+| DES.cpp | DES that can encrypt and decrypt messages |
+| DES-Key-Ciphertext.txt | Pairs of key and cipher text |
+| DES-Key-Plaintext.txt | Pairs of key and plain text |
+| Homework2.pdf | Description file |
 
 ## Usage
 DES.cpp can use the key and message in two text files to perform DES encryption and decryption. It will show the average running time.

@@ -7,8 +7,12 @@ Just for homework
 * Visual Studio >= 2015
 
 ## Files
-* aes-modes.cpp: AES that can encrypt and decrypt messages with different modes.
-* Homework3-update.pdf: Description file.
+| File | Description |
+| --- | --- |
+| aes-modes.cpp | AES that can encrypt and decrypt messages with different modes |
+| Homework3-update.pdf | Description file |
+| Homework3_Ans.pdf | Answer file |
 
 ## Usage
-aes-modes.cpp can use different modes and padding to perform AES encryption and decryption.
+aes-modes.cpp can use different modes and paddings to perform AES encryption and decryption.
+It runs on Visual Studio with Crypto++.
