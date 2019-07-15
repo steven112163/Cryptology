@@ -1,5 +1,5 @@
 # Cryptology
-NCTU Cryptology 2019 Fall Semester
+Cryptology Fall 2019 NCTU
 
 ## Directory
 * Cryptology-HW1: writing only
@@ -10,5 +10,5 @@ NCTU Cryptology 2019 Fall Semester
 * Cryptology-HW6: writing only
 
 ## Description
-Homeworks of Cryptology in NCTU 2019 fall semester.</br>
+Homeworks of Cryptology in NCTU fall semester 2019.</br>
 This repository includes writing homeworks and programming homeworks.
